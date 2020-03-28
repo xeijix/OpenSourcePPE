@@ -44,6 +44,12 @@ All OpenSource components should follow a common standard so that components are
 	* Major Diameter: 40.65mm
 	* Section size: 2mm
 
+## Contributing
+
+* All 3D files are managed by a Fusion 360 Project. 
+* There are quite a number of files in this project. I'll endevour to create public links for available files. If a file is not available, please request a share link.
+* **NOTE** If you want to collaborate on the project, please request access to the project file rather than a share link.
+
 ## References
 * [Zhejiang University - Handbook of COVID-19 Prevention and Treatment](https://covid-19.alibabacloud.com/)
 * [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/)
