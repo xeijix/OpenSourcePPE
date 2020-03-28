@@ -18,13 +18,13 @@ The goal of this repository is to determine simple, actionable, and reliable ste
 
 ## Areas of Interest
 
-* Personal Air-Purifying Respirators (PAPRs)
+* [Personal Air-Purifying Respirators (PAPRs)](./PAPR)
 	* Hoods
 	* Masks
 	* Blowers
-* N95 Filters - housing and possible filter material
-* Component Adapters - for adapting between components of different brands
-* Method of disinfection for reusable medical devices
+* [N95 Filters](./Filters) - housing and possible filter material
+* [Component Adapters](./ComponentAdapters) - for adapting between components of different brands
+* [Method of disinfection for reusable medical devices](./Disinfection)
 
 
 ## Standards

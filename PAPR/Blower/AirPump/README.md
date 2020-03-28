@@ -41,4 +41,4 @@
 		* This would require sealing the power switch permanently to the on position.
 3. Attach the [40mm inlet](./files/Inlet.stl) and [40mm outlet](./files/Outlet.stl) to the appropriate areas of the air pump.
 	* **NOTE**: Most air pumps are designed such that the outlet is along the seam of the chassis. That means that once you install the 40mm outlet component, you cannot take the pump apart without removing the 40mm outlet. 
-4. Perform a pressure test using [40mm Female Valve Cap](../../../Components/files/40mm\ Female\ Valve\ Cap.stl), [40mm Male Cap](../../../Components/files/40mm\ Male\ Cap.stl)
+4. Perform a pressure test using [40mm Female Valve Cap](../../../Components/files/40mm%20Female%20Valve%20Cap.stl), [40mm Male Cap](../../../Components/files/40mm%20Male%20Cap.stl)

@@ -3,10 +3,11 @@
 
 ## Adapters
 
-* [40mm Female to CPAP](./files/40mm\ Female\ to\ CPAP.stl) 
-	![40mm Female to CPAP](./images/output/40mm\ Female\ to\ CPAP.png | height=300)
-* [40mm Male to CPAP](./files/40mm\ Male\ to\ CPAP.stl)
-	![40mm Male to CPAP](./images/output/40mm\ Male\ to\ CPAP.png | height=300) 
+* [40mm Female to CPAP](./files/40mm%20Female%20to%20CPAP.stl) 
+* [40mm Male to CPAP](./files/40mm%20Male%20to%20CPAP.stl)
+
+![40mm Female to CPAP](./images/output/40mm%20Female%20to%20CPAP.png)
+![40mm Male to CPAP](./images/output/40mm%20Male%20to%20CPAP.png) 
 
 
 

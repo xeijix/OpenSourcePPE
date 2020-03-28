@@ -2,9 +2,9 @@
 
 PAPRs generally have the following types of components:
 
-* **Hood** - Covers the user's entire head. Purified air is typically fed through a tube
-* **Mask** - Covers the user's face. Purified air may be fed directly into the mask through a blower motor attached to the mask or through a tube.
-* **Blower** - A device which pulls in air through a filter and delivers it to the user's mask or hood.
+* [**Hood**](./Hood) - Covers the user's entire head. Purified air is typically fed through a tube
+* [**Mask**](./Mask) - Covers the user's face. Purified air may be fed directly into the mask through a blower motor attached to the mask or through a tube.
+* [**Blower**](./Blower) - A device which pulls in air through a filter and delivers it to the user's mask or hood.
 * **Filter**
 * **Battery**
 * **Flow meter** - to check that enough air is still able to flow through to the user. If the flow drops below a threshold, it indicates to the user that the filter must be replaced

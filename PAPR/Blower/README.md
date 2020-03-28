@@ -22,14 +22,14 @@
 * Enclosure must be airtight to prevent contaminated air seepage 
 
 ## Testing Protocol
-* Seal inlet and outlet with [40mm Female Valve Cap](../../Components/files/40mm\ Female\ Valve\ Cap.stl), [40mm Male Cap](../../Components/files/40mm\ Male\ Cap.stl)
+* Seal inlet and outlet with [40mm Female Valve Cap](../../Components/files/40mm%20Female%20Valve%20Cap.stl), [40mm Male Cap](../../Components/files/40mm%20Male%20Cap.stl)
 * Pressurize blower to x (target pressure TBD)
 * Check that pressure is holding steady
 * Submerge in water for y minutes (TBD)
 * Observe for air leaks
 
 ## Possible Designs
-* [Air Pump Design](./Air\ Pump/README.md)
+* [Air Pump Design](./AirPump)
 
 
 ## References
@@ -51,7 +51,7 @@
 		* Static pressure unknown
 
 	* [New original Delta FFB0412VHN -F00 DC 12V 1.92W 0.24A 9500RPM Cooling Fan Speed 3-Wire 3-pin 4cm 4028 40*40*28mm](https://www.newegg.com/p/1YF-00B0-001J0?Item=9SIAAES91X3779)
-		* >80 CFM
+		* \>80 CFM
 		* Minimum Wind Pressure: 0.120 Pa
 
 * Silicon adhesive to seal components airtight

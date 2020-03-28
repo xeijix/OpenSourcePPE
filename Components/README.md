@@ -15,10 +15,10 @@
 
 ## Instructions
 
-![Valve Cap](./images/output/40mm\ Female\ Valve\ Cap.png)
+![Valve Cap](./images/output/40mm%20Female%20Valve%20Cap.png)
 
 * Pressure valve cap
-	1. Attach bolt-on air valve to [40mm Female Valve Cap](./files/40mm\ Female\ Valve\ Cap.stl)
+	1. Attach bolt-on air valve to [40mm Female Valve Cap](./files/40mm%20Female%20Valve%20Cap.stl)
 	2. Apply gasket material to the inner rim of the cap (Gasket should be cut to this [shape](./files/Washer.png))
 	3. Use this cap to seal the device whose airtightness is in question, pressurize with a bike pump and observe for airleaks. 
 		* Pressure should be maintained 
