@@ -11,6 +11,9 @@
 * Gasket material, one of the following:
 	* Rubber sheet
 	* Neoprene foam sheet
+	* 27x38mm washer 
+	* 30x39mm washer
+	* NOTE: both washers may fit depending on material
 
 
 ## Instructions
