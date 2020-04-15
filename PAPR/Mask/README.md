@@ -21,3 +21,8 @@
 		* Note the difference in exhalation valve placement. Some exit near the intake, others are separate from the inlet tube.
 
 * Silicon adhesive to seal components airtight
+
+
+## References
+
+* [Snorkels turned medical masks that protect healthcare workers](https://youtu.be/HoN2EfqhYDc)
