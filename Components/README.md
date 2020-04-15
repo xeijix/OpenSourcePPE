@@ -10,10 +10,10 @@
 
 * Gasket material, one of the following:
 	* Rubber sheet
-	* Neoprene foam sheet
 	* 27x38mm washer 
 	* 30x39mm washer
 	* NOTE: both washers may fit depending on material
+	* You may also make your own silicone washer using the mold [top](./files/Washer%20Mold%20Top.stl) [bottom](./files/Washer%20Mold%20Bottom.stl)
 
 
 ## Instructions

@@ -44,6 +44,16 @@ All OpenSource components should follow a common standard so that components are
 	* Major Diameter: 40.65mm
 	* Section size: 2mm
 
+
+## Printing Notes
+
+* Parts needs to be printed to be airtight.
+	* **TBD** Using the following slicer [settings](https://www.instructables.com/id/3D-Printing-Make-Water-Tight-and-Air-Tight-Contain/) should produce airtight parts
+	* If the print is still porous, you can coat the print with cyanoacrylate.
+
+
+
+
 ## Contributing
 
 * All 3D files are managed by a Fusion 360 Project. 
